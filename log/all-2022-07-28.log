@@ -1,0 +1,1503 @@
+[2022-07-28 09:43:56,811] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 09:44:24,807] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 09:44:34,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 09:45:01,342] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 09:45:14,929] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:17:42,214] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-07-28 13:17:42,304] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 13:17:42,478] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 13:17:42,663] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4868
+[2022-07-28 13:18:26,336] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/?format=openapi HTTP/1.1" 200 60838
+[2022-07-28 13:20:28,673] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-28 13:20:29,911] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:20:43,374] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-28 13:20:44,474] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:21:10,340] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=2&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 13:21:10,437] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=2&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 3009
+[2022-07-28 13:21:11,560] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4868
+[2022-07-28 13:21:12,288] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 13:21:12,444] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:21:19,510] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4868
+[2022-07-28 13:21:19,940] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:21:34,838] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-28 13:21:35,950] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:21:41,593] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=2&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 13:21:41,696] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=2&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1250
+[2022-07-28 13:22:36,036] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-28 13:22:37,214] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:22:38,831] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-28 13:22:40,044] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:22:42,711] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-28 13:22:43,846] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:23:33,905] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:23:56,879] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:23:57,981] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:24:23,360] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:24:24,465] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:24:42,295] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:24:43,418] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:24:44,239] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:44,875] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:45,291] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:45,552] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:45,801] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:46,021] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:46,230] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:49,494] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:24:52,807] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:25:01,008] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:25:05,000] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:25:14,374] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:25:15,606] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:25:21,512] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:25:22,670] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:25:44,774] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:25:45,933] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:25:46,425] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:25:47,401] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:25:47,847] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:26:02,273] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:07,478] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:08,592] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:50,646] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:27:51,773] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:27:52,597] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:53,942] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:55,112] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:55,378] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:55,614] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:55,798] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:55,999] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:56,210] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:56,404] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:56,584] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:27:56,766] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 40930
+[2022-07-28 13:28:08,804] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:28:17,154] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:28:18,253] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:28:19,399] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:28:20,671] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:28:21,217] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:28:40,376] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:28:41,469] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:28:42,738] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:29:14,356] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:29:15,498] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:29:22,384] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:29:23,491] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:29:28,081] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:29:29,187] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:29:30,884] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:29:32,638] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:29:33,118] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:29:33,330] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:29:33,571] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:29:33,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:29:51,576] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:29:52,726] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:30:11,626] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:30:12,731] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:30:13,134] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:13,713] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:14,054] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:14,258] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:14,418] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:14,579] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:14,732] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:14,886] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:15,038] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:30:17,780] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:30:18,883] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:30:24,745] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:30:25,512] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:30:25,687] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:30:25,881] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:30:26,082] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:30:26,396] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:30:26,569] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:30:44,695] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:30:45,823] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:30:53,102] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?id=14 HTTP/1.1" 200 38488
+[2022-07-28 13:30:56,482] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4868
+[2022-07-28 13:30:57,059] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 37852
+[2022-07-28 13:30:58,096] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:31:09,256] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:31:12,542] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title= HTTP/1.1" 200 38554
+[2022-07-28 13:31:29,956] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 91
+[2022-07-28 13:31:31,381] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 91
+[2022-07-28 13:31:47,290] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:31:48,391] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:31:58,722] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title= HTTP/1.1" 200 38554
+[2022-07-28 13:32:03,590] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:32:09,844] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:32:11,095] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:32:13,813] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:32:14,931] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:32:15,639] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:16,275] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:16,492] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:16,674] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:16,834] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:16,996] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:17,169] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:17,325] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:32:52,219] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:32:53,321] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:33:18,732] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:33:19,090] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:33:19,357] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:33:19,566] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:33:25,859] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:09,738] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:34:10,934] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:34:23,869] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:24,364] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:24,602] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:24,818] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:25,044] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:25,260] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:25,467] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:54,224] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:54,725] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:34:55,116] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:35:04,465] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:02,824] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\server\settings.py changed, reloading.
+[2022-07-28 13:36:04,035] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:36:07,341] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:07,903] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:09,177] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:09,392] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:09,596] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:09,790] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:13,481] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\server\settings.py changed, reloading.
+[2022-07-28 13:36:14,580] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:36:15,924] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:36:24,563] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 91
+[2022-07-28 13:36:41,170] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:36:42,298] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:36:47,622] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 5593
+[2022-07-28 13:36:57,022] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:36:58,226] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:37:01,330] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:01,882] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:02,160] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:02,364] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:02,529] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:02,715] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:02,896] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:03,313] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:06,608] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:37:07,751] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:37:10,403] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:10,562] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:10,718] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:23,732] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:37:24,823] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:37:25,913] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:26,403] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:26,599] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:26,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:26,941] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:27,100] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:27,260] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:27,439] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:27,603] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:27,816] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:37:27,939] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 30459
+[2022-07-28 13:38:29,146] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:38:30,283] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:38:40,310] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:38:56,144] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:38:58,863] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:38:59,983] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:39:01,337] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:39:01,962] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:39:02,345] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:39:03,717] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:39:04,193] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 25073
+[2022-07-28 13:39:18,969] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:39:19,310] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:39:20,754] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=json&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 5616
+[2022-07-28 13:39:23,772] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:24,328] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:24,773] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:25,193] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:25,528] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:25,817] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:26,104] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:26,396] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:26,654] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:26,950] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?format=api&holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30763
+[2022-07-28 13:39:34,650] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30591
+[2022-07-28 13:39:50,160] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:39:51,260] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:39:52,889] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30865
+[2022-07-28 13:39:53,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 30865
+[2022-07-28 13:39:59,674] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:40:00,777] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:40:44,529] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:40:45,696] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:41:31,042] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:31,326] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:31,576] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:31,842] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:32,159] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:32,410] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:32,609] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:32,904] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:33,094] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:41:40,573] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:41:58,328] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?title=DISGAEA-BugReport HTTP/1.1" 200 39743
+[2022-07-28 13:42:15,132] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40469
+[2022-07-28 13:42:24,367] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:42:40,845] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:42:41,971] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:43:05,686] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4868
+[2022-07-28 13:43:19,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4868
+[2022-07-28 13:43:29,073] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:43:30,201] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:43:30,651] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/randominspection?proportion=0.5&start_time=xxx&end_time=xxx HTTP/1.1" 200 4078
+[2022-07-28 13:43:30,680] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2022-07-28 13:43:30,680] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[2022-07-28 13:43:30,680] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[2022-07-28 13:43:30,682] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2022-07-28 13:43:30,683] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2022-07-28 13:43:30,689] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[2022-07-28 13:43:30,696] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[2022-07-28 13:43:30,702] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2022-07-28 13:43:30,709] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2022-07-28 13:43:30,723] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2022-07-28 13:43:30,828] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2022-07-28 13:43:30,985] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-07-28 13:43:30,986] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 4608
+[2022-07-28 13:43:31,765] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:43:33,055] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:43:34,393] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:43:35,290] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:43:35,695] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:43:35,886] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:43:42,216] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:43:43,361] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:44:19,455] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:44:20,632] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:44:21,329] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:03,321] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:45:04,429] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:45:05,677] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:36,321] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:45:37,467] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:45:38,036] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:38,871] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:39,105] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:39,262] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:39,439] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:39,592] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:39,751] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:39,914] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:45,606] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:45:46,697] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:45:47,649] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:48,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:48,211] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:48,360] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:48,507] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:48,656] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:48,813] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:48,950] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:49,108] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:49,254] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7&page=2 HTTP/1.1" 200 30003
+[2022-07-28 13:45:50,832] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40469
+[2022-07-28 13:45:53,356] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:46:05,673] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:46:06,757] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:46:08,133] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:46:22,357] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:46:23,503] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:46:47,730] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:46:48,850] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:46:53,677] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40402
+[2022-07-28 13:47:05,731] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:47:06,923] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:47:10,713] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:47:11,849] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:47:18,076] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=%E6%9C%80%E5%BE%8C%E7%9A%84%E5%85%8B%E5%8B%9E%E8%BF%AA%E4%BA%9E-%E6%88%91%E9%81%87%E5%88%B0%E4%BA%86BUG%EF%BC%8C%E8%A6%81%E9%80%B2%E8%A1%8C%E5%9B%9E HTTP/1.1" 200 48322
+[2022-07-28 13:47:26,497] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:47:52,394] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:47:53,526] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:48:17,780] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:48:18,950] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:48:19,623] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:48:20,193] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:48:20,559] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:48:20,732] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:48:20,892] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?title=DISGAEA-BugReport HTTP/1.1" 200 39676
+[2022-07-28 13:48:42,293] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:48:43,415] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:48:48,615] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?ordering=title HTTP/1.1" 200 38103
+[2022-07-28 13:49:02,738] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?searching=%E9%82%B1%E4%B8%87%E5%A9%B7 HTTP/1.1" 200 40600
+[2022-07-28 13:49:14,113] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?%E9%82%B1%E4%B8%87%E5%A9%B7=%E5%B0%81%E6%99%B6 HTTP/1.1" 200 41194
+[2022-07-28 13:49:21,276] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E5%B0%81%E6%99%B6 HTTP/1.1" 200 39808
+[2022-07-28 13:50:12,714] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:50:13,874] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:50:17,670] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:50:18,779] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:50:19,332] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E5%B0%81%E6%99%B6 HTTP/1.1" 200 31049
+[2022-07-28 13:50:32,168] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?holder=%E5%B0%81%E6%99%B6 HTTP/1.1" 200 31049
+[2022-07-28 13:50:48,494] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:50:49,621] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:52:28,327] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:52:29,425] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:52:31,029] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\filter.py changed, reloading.
+[2022-07-28 13:52:32,344] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:52:41,192] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 29269
+[2022-07-28 13:53:07,588] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:53:08,675] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:53:09,790] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 29628
+[2022-07-28 13:53:16,747] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:53:17,872] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:53:23,847] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4868
+[2022-07-28 13:53:25,338] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 13:53:28,549] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 13:53:28,651] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 13:53:29,368] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 13:53:29,464] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:53:30,548] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 13:53:31,848] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:53:32,364] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 13:53:33,887] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:54:07,196] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:54:08,282] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:54:14,261] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:54:15,366] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:54:16,992] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 29628
+[2022-07-28 13:54:17,416] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 29628
+[2022-07-28 13:54:18,986] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 41482
+[2022-07-28 13:55:27,389] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:55:28,480] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:55:51,747] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/quality
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "E:\QC\venv\lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 43, in get_filterset_class
+    queryset.model,
+AssertionError: FilterSet model <class 'apps.qc.models.Ticket'> does not match queryset model <class 'apps.qc.models.Quality'>
+[2022-07-28 13:55:51,750] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 500 122552
+[2022-07-28 13:55:53,898] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/quality
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "E:\QC\venv\lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 43, in get_filterset_class
+    queryset.model,
+AssertionError: FilterSet model <class 'apps.qc.models.Ticket'> does not match queryset model <class 'apps.qc.models.Quality'>
+[2022-07-28 13:55:53,900] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 500 122552
+[2022-07-28 13:55:55,520] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:56:04,840] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/quality
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "E:\QC\venv\lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 43, in get_filterset_class
+    queryset.model,
+AssertionError: FilterSet model <class 'apps.qc.models.Ticket'> does not match queryset model <class 'apps.qc.models.Quality'>
+[2022-07-28 13:56:04,842] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 500 122552
+[2022-07-28 13:56:05,297] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:56:15,644] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 13:56:16,736] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:57:08,717] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&name=1 HTTP/1.1" 200 0
+[2022-07-28 13:57:08,851] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(queryset.values_list('id', flat=True), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 317, in sample
+    raise TypeError("Population must be a sequence or set.  For dicts, use list(d).")
+TypeError: Population must be a sequence or set.  For dicts, use list(d).
+[2022-07-28 13:57:08,853] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&name=1 HTTP/1.1" 500 107308
+[2022-07-28 13:57:12,417] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:57:13,514] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:58:31,100] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&name=1&proportion=1 HTTP/1.1" 200 0
+[2022-07-28 13:58:31,261] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(queryset.values_list('id', flat=True), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 317, in sample
+    raise TypeError("Population must be a sequence or set.  For dicts, use list(d).")
+TypeError: Population must be a sequence or set.  For dicts, use list(d).
+[2022-07-28 13:58:31,263] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&name=1&proportion=1 HTTP/1.1" 500 107677
+[2022-07-28 13:58:46,839] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 13:58:47,119] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/quality
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "E:\QC\venv\lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "E:\QC\venv\lib\site-packages\django_filters\rest_framework\backends.py", line 43, in get_filterset_class
+    queryset.model,
+AssertionError: FilterSet model <class 'apps.qc.models.Ticket'> does not match queryset model <class 'apps.qc.models.Quality'>
+[2022-07-28 13:58:47,121] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 500 122552
+[2022-07-28 13:58:48,631] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 13:58:52,196] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 200 0
+[2022-07-28 13:58:52,323] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(queryset.values_list('id', flat=True), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 317, in sample
+    raise TypeError("Population must be a sequence or set.  For dicts, use list(d).")
+TypeError: Population must be a sequence or set.  For dicts, use list(d).
+[2022-07-28 13:58:52,324] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 500 107420
+[2022-07-28 13:59:06,217] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/randominspection HTTP/1.1" 200 14291
+[2022-07-28 13:59:09,127] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(queryset.values_list('id', flat=True), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 317, in sample
+    raise TypeError("Population must be a sequence or set.  For dicts, use list(d).")
+TypeError: Population must be a sequence or set.  For dicts, use list(d).
+[2022-07-28 13:59:09,128] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection HTTP/1.1" 500 110739
+[2022-07-28 13:59:37,195] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 13:59:38,313] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 13:59:42,058] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 114, in Randominspection
+    ids = random.sample(queryset.values_list('id', flat=True), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 317, in sample
+    raise TypeError("Population must be a sequence or set.  For dicts, use list(d).")
+TypeError: Population must be a sequence or set.  For dicts, use list(d).
+[2022-07-28 13:59:42,062] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection HTTP/1.1" 500 110739
+[2022-07-28 14:00:01,852] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:00:02,955] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:00:05,446] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/randominspection HTTP/1.1" 200 26370
+[2022-07-28 14:00:09,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/randominspection HTTP/1.1" 200 26370
+[2022-07-28 14:01:58,787] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-28 14:01:59,910] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:02:16,656] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-28 14:02:17,764] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:02:18,619] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/selfticket HTTP/1.1" 200 16716
+[2022-07-28 14:02:23,539] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 40967
+[2022-07-28 14:03:31,655] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:03:32,790] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:03:33,355] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:33,565] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:34,190] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:34,726] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:34,989] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:35,205] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:35,400] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:35,622] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:03:35,806] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 42060
+[2022-07-28 14:04:46,702] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:04:47,808] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:05:11,789] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:05:12,883] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:05:15,562] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:05:16,747] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:05:19,038] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 27321
+[2022-07-28 14:05:19,844] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 27321
+[2022-07-28 14:05:20,113] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 27321
+[2022-07-28 14:06:20,385] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 320, in sample
+    if not 0 <= k <= n:
+TypeError: '<=' not supported between instances of 'int' and 'str'
+[2022-07-28 14:06:20,387] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 500 107831
+[2022-07-28 14:06:23,453] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:06:24,596] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:08:07,735] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-28 14:08:08,841] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:09:45,172] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:09:46,307] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:10:11,665] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:10:12,791] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:10:49,604] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:10:49,606] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 500 107720
+[2022-07-28 14:10:53,436] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:10:54,592] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:11:13,481] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:11:14,576] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:11:24,767] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:11:24,769] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 500 107726
+[2022-07-28 14:11:43,318] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/randominspection HTTP/1.1" 200 14291
+[2022-07-28 14:11:45,321] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 111, in Randominspection
+    proportion = float(eval(self.request.query_params.get('proportion', 1)))
+TypeError: eval() arg 1 must be a string, bytes or code object
+[2022-07-28 14:11:45,322] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection HTTP/1.1" 500 105689
+[2022-07-28 14:12:01,330] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:12:02,501] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:12:20,281] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:12:21,376] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:12:26,654] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 114, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:12:26,656] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection HTTP/1.1" 500 111042
+[2022-07-28 14:12:32,985] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:12:34,083] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:12:36,226] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 114, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:12:36,229] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection HTTP/1.1" 500 111044
+[2022-07-28 14:13:36,688] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:13:37,792] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:13:47,756] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:13:48,873] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:13:50,487] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:13:51,610] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:13:54,043] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 115, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:13:54,046] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection HTTP/1.1" 500 111088
+[2022-07-28 14:14:12,034] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:14:13,136] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:14:19,550] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/randominspection?proportion=1 HTTP/1.1" 200 14343
+[2022-07-28 14:14:21,679] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 113, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 320, in sample
+    if not 0 <= k <= n:
+TypeError: '<=' not supported between instances of 'int' and 'str'
+[2022-07-28 14:14:21,681] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?proportion=1 HTTP/1.1" 500 111644
+[2022-07-28 14:14:29,210] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:14:30,326] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:14:31,443] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/randominspection HTTP/1.1" 200 14291
+[2022-07-28 14:14:42,175] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/randominspection HTTP/1.1" 200 26370
+[2022-07-28 14:14:59,224] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:15:00,330] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:15:01,242] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/randominspection?proportion=0.5 HTTP/1.1" 200 14351
+[2022-07-28 14:15:03,321] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 114, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * proportion)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 320, in sample
+    if not 0 <= k <= n:
+TypeError: '<=' not supported between instances of 'int' and 'str'
+[2022-07-28 14:15:03,323] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?proportion=0.5 HTTP/1.1" 500 111636
+[2022-07-28 14:15:22,811] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:15:23,940] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:15:25,916] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 114, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * eval(proportion))
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:15:25,919] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?proportion=0.5 HTTP/1.1" 500 111515
+[2022-07-28 14:15:46,372] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:15:47,523] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:15:48,864] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 114, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * eval(proportion))
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:15:48,866] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?proportion=0.5 HTTP/1.1" 500 111546
+[2022-07-28 14:16:21,786] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:16:22,947] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:16:24,026] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 115, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * eval(proportion))
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:16:24,028] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?proportion=0.5 HTTP/1.1" 500 111537
+[2022-07-28 14:16:32,127] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:16:33,221] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:16:40,263] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:16:41,341] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:16:43,333] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/randominspection
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 115, in Randominspection
+    ids = random.sample(list(queryset.values_list('id', flat=True)), queryset.count() * eval(proportion))
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\random.py", line 322, in sample
+    result = [None] * k
+TypeError: can't multiply sequence by non-int of type 'float'
+[2022-07-28 14:16:43,335] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/randominspection?proportion=0.5 HTTP/1.1" 500 111556
+[2022-07-28 14:16:55,136] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:16:56,226] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:16:57,841] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:16:58,955] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:17:00,866] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/randominspection?proportion=0.5 HTTP/1.1" 200 35068
+[2022-07-28 14:20:15,357] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:20:16,482] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:23:18,176] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:23:19,300] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:23:41,506] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:23:42,594] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:24:28,519] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:24:29,627] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:25:14,338] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:25:15,448] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:25:38,762] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:25:39,833] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:26:00,895] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:26:02,018] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:26:16,752] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 16501
+[2022-07-28 14:26:46,278] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfticket HTTP/1.1" 200 27321
+[2022-07-28 14:26:50,853] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/ HTTP/1.1" 200 2167
+[2022-07-28 14:26:51,284] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/?format=openapi HTTP/1.1" 200 82757
+[2022-07-28 14:27:06,511] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfqulity HTTP/1.1" 200 21552
+[2022-07-28 14:27:57,207] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 16501
+[2022-07-28 14:27:58,466] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/qualitycase HTTP/1.1" 200 16497
+[2022-07-28 14:29:19,195] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:29:20,381] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:30:04,408] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:30:06,483] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 14:30:20,671] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/?is_active=true&page=1&page_size=20 HTTP/1.1" 200 0
+[2022-07-28 14:30:20,672] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/organization/ HTTP/1.1" 200 0
+[2022-07-28 14:30:20,673] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/role/ HTTP/1.1" 200 0
+[2022-07-28 14:30:20,821] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/organization/ HTTP/1.1" 200 2923
+[2022-07-28 14:30:20,900] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/role/ HTTP/1.1" 200 1002
+[2022-07-28 14:30:20,933] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/?is_active=true&page=1&page_size=20 HTTP/1.1" 200 6324
+[2022-07-28 14:30:24,695] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/?is_active=true&page=2&page_size=20 HTTP/1.1" 200 0
+[2022-07-28 14:30:25,911] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/?is_active=true&page=2&page_size=20 HTTP/1.1" 200 3140
+[2022-07-28 14:30:31,115] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:30:33,750] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:30:36,124] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:30:38,069] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 14:30:39,429] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:30:40,204] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:38:01,037] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:38:02,131] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:39:58,014] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:39:59,112] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:40:14,926] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:40:16,040] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:41:42,874] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:41:43,995] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:42:21,202] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:42:22,315] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:42:34,552] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:42:35,567] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 14:42:39,998] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/randominspection?quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 200 33
+[2022-07-28 14:42:40,057] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 200 0
+[2022-07-28 14:42:40,156] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80&proportion=1 HTTP/1.1" 200 83
+[2022-07-28 14:42:42,516] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:42:42,981] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:43:25,216] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:43:25,830] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:43:26,836] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:44:06,700] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:44:07,814] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:44:12,628] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:44:13,711] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:44:17,002] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/selfqulity HTTP/1.1" 200 21552
+[2022-07-28 14:44:19,432] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 21420
+[2022-07-28 14:44:27,143] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 11666
+[2022-07-28 14:44:36,627] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 41482
+[2022-07-28 14:44:43,955] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/14/beexample HTTP/1.1" 200 14342
+[2022-07-28 14:44:45,490] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 14:44:45,813] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:44:47,236] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/14/beexample
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 122, in beexample
+    Recheck.objects.create(ticket=ticket_ins.id, user=self.request.user.name)
+  File "E:\QC\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\query.py", line 451, in create
+    obj = self.model(**kwargs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\base.py", line 485, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "E:\QC\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 220, in __set__
+    self.field.remote_field.model._meta.object_name,
+ValueError: Cannot assign "14": "Recheck.ticket" must be a "Ticket" instance.
+[2022-07-28 14:44:47,241] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/14/beexample HTTP/1.1" 500 124056
+[2022-07-28 14:44:58,573] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:44:59,691] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:45:08,840] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:45:09,949] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:45:12,345] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/14/beexample
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+[2022-07-28 14:45:12,347] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/14/beexample HTTP/1.1" 500 92717
+[2022-07-28 14:45:15,039] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 14:45:15,274] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:45:48,968] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:45:50,113] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:45:53,772] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 14:45:54,028] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:45:54,221] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/14/beexample HTTP/1.1" 200 14289
+[2022-07-28 14:46:07,442] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:46:08,608] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:46:18,563] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 14:46:18,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:46:57,516] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:47:02,427] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 14:47:02,528] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:47:03,469] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 14:47:03,563] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 14:47:08,716] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:47:09,871] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:47:16,468] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:47:17,067] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:47:18,155] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:47:18,665] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:47:18,901] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 14:47:20,299] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/ticket/14/beexample
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "E:\QC\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "E:\QC\venv\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 680, in get_context
+    'content': self.get_content(renderer, data, accepted_media_type, renderer_context),
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 413, in get_content
+    content = renderer.render(data, accepted_media_type, renderer_context)
+  File "E:\QC\utils\response.py", line 67, in render
+    return super(FitJSONRenderer, self).render(response_body.dict, accepted_media_type, renderer_context)
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\QC\venv\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 201, in encode
+    chunks = list(chunks)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 431, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 438, in _iterencode
+    o = _default(o)
+  File "E:\QC\venv\lib\site-packages\rest_framework\utils\encoders.py", line 67, in default
+    return super().default(obj)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Qualitycase is not JSON serializable
+[2022-07-28 14:47:20,302] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/ticket/14/beexample HTTP/1.1" 500 155903
+[2022-07-28 14:47:31,892] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:47:33,034] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:47:34,972] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/14/beexample HTTP/1.1" 200 14289
+[2022-07-28 14:48:03,322] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 14:48:03,548] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:48:13,963] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:48:14,210] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-28 14:48:15,307] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:48:15,612] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 14:48:17,081] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/14/beexample HTTP/1.1" 200 14289
+[2022-07-28 14:48:23,198] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 12056
+[2022-07-28 14:48:40,132] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:48:41,237] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:48:41,933] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualitycase
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1823, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'Ticket'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+  File "E:\QC\venv\lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+  File "E:\QC\venv\lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\QC\venv\lib\site-packages\rest_framework\serializers.py", line 687, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "E:\QC\venv\lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "E:\QC\venv\lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "E:\QC\venv\lib\site-packages\rest_framework\fields.py", line 1886, in to_representation
+    return method(value)
+  File "E:\QC\apps\qc\serializer.py", line 57, in get_ticket
+    return Ticketloadserializer(instance=Ticket.objects.get(id=obj.ticket)).data
+  File "E:\QC\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\query.py", line 424, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\query.py", line 941, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\query.py", line 961, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\query.py", line 968, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\QC\venv\lib\site-packages\django\db\models\sql\query.py", line 1416, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\QC\venv\lib\site-packages\django\db\models\sql\query.py", line 1438, in _add_q
+    split_subq=split_subq, check_filterable=check_filterable,
+  File "E:\QC\venv\lib\site-packages\django\db\models\sql\query.py", line 1370, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\QC\venv\lib\site-packages\django\db\models\sql\query.py", line 1216, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\lookups.py", line 25, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\QC\venv\lib\site-packages\django\db\models\lookups.py", line 77, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\QC\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1827, in get_prep_value
+    ) from e
+TypeError: Field 'id' expected a number but got <Ticket: DISGAEA-BugReport>.
+[2022-07-28 14:48:41,937] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/qualitycase HTTP/1.1" 500 200103
+[2022-07-28 14:48:51,248] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:48:51,653] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:48:52,852] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:48:53,468] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5625
+[2022-07-28 14:48:56,418] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket/14 HTTP/1.1" 200 0
+[2022-07-28 14:48:56,543] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /qc/ticket/14 HTTP/1.1" 200 528
+[2022-07-28 14:48:56,653] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5622
+[2022-07-28 14:48:59,846] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:49:00,773] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-07-28 14:49:02,037] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:49:03,126] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:49:03,727] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:49:03,827] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:49:07,864] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:49:08,893] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:49:09,796] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:49:10,794] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 14:49:38,425] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:49:39,543] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:49:39,995] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 14471
+[2022-07-28 14:49:41,835] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 14471
+[2022-07-28 14:50:10,280] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:50:11,404] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:50:11,772] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:11,803] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:11,966] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:12,122] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:12,317] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:12,518] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:31,415] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:50:32,518] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:50:35,198] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 14:50:36,300] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 14:50:36,762] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:36,981] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:37,273] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:37,758] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:38,050] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:38,279] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:38,517] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 14:50:38,747] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 13552
+[2022-07-28 15:07:05,291] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:07:06,957] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-07-28 15:07:07,931] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:07:34,376] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 13480
+[2022-07-28 15:08:41,221] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 15:08:42,445] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 15:09:01,564] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 15:09:02,671] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 13444
+[2022-07-28 15:09:22,580] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 15:09:23,692] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 15:09:26,131] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-28 15:09:27,286] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 15:09:27,661] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 15146
+[2022-07-28 15:14:28,516] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/qualityLoad HTTP/1.1" 200 0
+[2022-07-28 15:14:29,098] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-28 15:14:31,108] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:14:31,883] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:14:32,677] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:14:34,672] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:15:00,473] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10 HTTP/1.1" 200 0
+[2022-07-28 15:15:00,563] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 83
+[2022-07-28 15:15:04,341] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:15:04,705] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 83
+[2022-07-28 15:15:06,298] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:15:12,800] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 15:15:30,975] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 83
+[2022-07-28 15:15:37,277] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:15:37,580] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 83
+[2022-07-28 15:15:41,819] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10 HTTP/1.1" 200 0
+[2022-07-28 15:15:41,924] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10 HTTP/1.1" 200 5560
+[2022-07-28 15:15:47,705] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 83
+[2022-07-28 15:16:10,056] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 21420
+[2022-07-28 15:16:28,733] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-28 15:16:29,893] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-28 15:16:30,439] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 33043
+[2022-07-28 15:16:37,337] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 33043
+[2022-07-28 15:16:38,053] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:16:38,307] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:17:03,835] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:17:15,914] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:17:35,405] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:18:08,859] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-07-28 15:18:08,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:18:09,258] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:18:14,375] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:18:18,297] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:18:18,997] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:11,618] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:20:12,068] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:13,205] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:13,860] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:14,353] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:15,537] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:35,295] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:20:35,683] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:38,235] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:38,901] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:39,609] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:40,496] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:41,205] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:44,644] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:20:53,085] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:20:53,386] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:27:27,091] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:28:13,624] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:29:31,161] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:29:31,501] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:29:32,658] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:29:33,656] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:29:37,477] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:29:40,985] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:30:04,519] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:30:20,136] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:30:26,066] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:30:30,740] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:30:37,587] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:31:48,933] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:31:53,670] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:31:56,765] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:32:16,552] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:32:21,159] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:32:33,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:32:36,513] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:32:46,103] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:32:56,691] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10 HTTP/1.1" 200 5560
+[2022-07-28 15:33:11,746] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:33:12,074] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:33:25,879] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:33:27,951] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:33:28,250] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:35:02,709] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:35:03,457] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:35:03,794] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:35:10,362] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:35:23,686] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:35:29,872] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:35:53,515] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:37:37,588] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:37:55,912] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:38:01,462] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:38:02,340] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:39:49,295] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:39:51,277] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:40:23,734] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:40:47,551] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:44:41,325] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:44:44,323] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:44:45,143] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:45:08,890] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:45:10,198] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:45:10,518] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:45:11,799] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:45:12,767] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:47:59,239] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:48:10,617] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:48:27,552] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:49:18,325] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:49:20,746] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:49:21,041] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:49:35,898] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:49:36,205] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:49:40,530] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:49:57,515] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:50:01,593] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:50:11,666] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:55:22,420] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:55:32,319] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:55:46,873] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:55:56,125] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:58:57,093] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:58:58,136] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 15:58:58,416] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:59:13,999] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-28 15:59:37,283] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 16:05:05,408] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 16:45:43,794] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 16:46:09,039] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 17:22:11,643] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-07-28 17:22:11,728] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-28 17:24:38,620] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 17:24:38,715] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-28 17:24:48,089] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 17:24:48,178] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 17:24:49,206] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-28 17:24:49,979] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 17:24:50,068] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 17:24:51,504] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-28 17:24:52,257] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 17:24:52,691] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 17:24:52,782] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 17:24:54,336] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-28 17:24:54,992] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 17:24:56,123] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-07-28 17:24:56,366] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-28 17:24:57,098] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-28 17:24:57,209] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5622
+[2022-07-29 09:38:45,933] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-07-29 09:38:46,025] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-29 09:38:46,253] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-29 09:38:46,345] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-29 09:38:47,522] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-29 09:38:47,618] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-29 09:38:48,285] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-07-29 09:38:48,377] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-29 09:38:50,043] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-29 09:39:36,792] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-29 09:39:37,062] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-29 09:40:51,858] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-29 09:40:52,092] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 4871
+[2022-07-29 09:41:22,792] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-29 09:41:52,009] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-29 09:41:53,648] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-29 09:41:56,686] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-29 09:42:14,917] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-29 09:42:15,382] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-07-29 09:42:18,499] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10 HTTP/1.1" 200 0
+[2022-07-29 09:42:18,594] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-29 09:42:20,276] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10 HTTP/1.1" 200 0
+[2022-07-29 09:42:20,361] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10 HTTP/1.1" 200 5560
+[2022-07-29 09:42:20,907] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10 HTTP/1.1" 200 4828
+[2022-07-29 09:42:51,991] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.

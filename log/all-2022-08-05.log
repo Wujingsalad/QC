@@ -1,0 +1,287 @@
+[2022-08-05 13:24:35,306] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:24:56,539] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:24:57,643] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:25:48,037] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:25:49,132] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:25:56,149] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:25:57,247] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:28:01,195] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:28:02,293] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:29:07,650] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:29:08,841] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:29:24,519] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:29:25,632] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:29:56,515] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:29:57,723] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:30:54,303] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:30:55,406] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:32:39,519] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:32:40,616] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:36:58,983] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-08-05 13:37:00,110] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:43:04,871] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:43:06,032] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:43:33,578] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:43:34,723] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:43:44,195] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 24402
+[2022-08-05 13:43:53,090] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck/14/cancel HTTP/1.1" 200 5669
+[2022-08-05 13:44:01,579] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck/1/cancel HTTP/1.1" 200 7443
+[2022-08-05 13:53:15,635] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-05 13:53:15,754] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-05 13:53:15,957] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 13:53:16,007] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 13:54:54,822] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 13:54:54,849] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 13:54:55,819] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5839
+[2022-08-05 13:54:57,185] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck HTTP/1.1" 200 0
+[2022-08-05 13:54:57,299] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3916
+[2022-08-05 13:56:36,875] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3916
+[2022-08-05 13:56:40,581] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck/1/accept HTTP/1.1" 200 0
+[2022-08-05 13:56:40,659] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/1/accept HTTP/1.1" 200 97
+[2022-08-05 13:58:37,918] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 13:58:39,051] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 13:58:51,189] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/1/accept HTTP/1.1" 200 781
+[2022-08-05 13:58:51,355] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3917
+[2022-08-05 13:59:09,558] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck/2/cancel HTTP/1.1" 200 0
+[2022-08-05 13:59:09,656] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/2/cancel HTTP/1.1" 200 757
+[2022-08-05 13:59:09,791] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3918
+[2022-08-05 14:00:05,320] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3918
+[2022-08-05 14:00:09,710] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/1/accept HTTP/1.1" 200 781
+[2022-08-05 14:00:09,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3918
+[2022-08-05 14:00:19,616] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/2/cancel HTTP/1.1" 200 760
+[2022-08-05 14:00:19,740] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3921
+[2022-08-05 14:01:49,836] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3921
+[2022-08-05 14:01:53,188] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-05 14:01:54,295] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-05 14:01:56,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3921
+[2022-08-05 14:02:09,165] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3921
+[2022-08-05 14:02:28,965] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-05 14:02:29,167] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 0
+[2022-08-05 14:02:29,286] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3921
+[2022-08-05 14:02:53,598] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-05 14:02:53,817] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3921
+[2022-08-05 14:03:04,460] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-05 14:03:06,881] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-05 14:03:25,223] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-05 14:03:26,597] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-05 14:03:28,347] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3921
+[2022-08-05 14:37:39,951] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-05 14:37:39,976] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-05 14:37:40,061] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:37:40,082] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 14:37:41,956] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-05 14:37:41,981] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:37:42,053] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-05 14:37:43,772] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-05 14:37:43,796] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:37:43,871] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 14:37:44,452] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3921
+[2022-08-05 14:37:45,436] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/qualitycase HTTP/1.1" 200 0
+[2022-08-05 14:37:45,546] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-05 14:37:46,395] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3921
+[2022-08-05 14:37:47,612] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-05 14:54:05,387] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:54:05,408] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 14:54:08,675] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:54:08,697] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 14:54:09,435] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:54:09,446] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-05 14:54:10,218] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-05 14:54:10,240] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:54:10,327] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-05 14:54:13,950] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 14:54:13,957] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 14:54:18,006] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-05 15:12:40,799] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 15:12:40,799] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-05 15:12:41,866] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-05 15:12:41,979] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5839
+[2022-08-05 15:12:42,262] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-05 15:12:42,890] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5839
+[2022-08-05 15:12:53,505] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3921
+[2022-08-05 17:24:02,139] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 0
+[2022-08-05 17:24:02,280] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3921
+[2022-08-05 17:24:05,353] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck/2/accept HTTP/1.1" 200 0
+[2022-08-05 17:24:05,473] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/2/accept HTTP/1.1" 200 778
+[2022-08-05 17:24:05,615] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3939
+[2022-08-05 17:24:36,637] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3939
+[2022-08-05 17:24:41,375] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3939
+[2022-08-05 17:24:42,736] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/2/accept HTTP/1.1" 200 795
+[2022-08-05 17:24:42,870] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3956
+[2022-08-08 09:09:03,001] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck/1/cancel HTTP/1.1" 200 0
+[2022-08-08 09:09:03,063] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/1/cancel HTTP/1.1" 200 111
+[2022-08-08 09:09:03,134] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 0
+[2022-08-08 09:09:03,181] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 111
+[2022-08-08 09:09:06,649] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /token/ HTTP/1.1" 200 0
+[2022-08-08 09:09:06,891] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /token/ HTTP/1.1" 200 517
+[2022-08-08 09:09:06,949] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-08 09:09:07,022] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 09:09:07,205] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3956
+[2022-08-08 09:09:12,237] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/recheck/1/cancel HTTP/1.1" 200 784
+[2022-08-08 09:09:12,357] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3959
+[2022-08-08 09:36:25,869] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-08 09:36:25,896] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-08 09:36:25,966] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 09:36:26,006] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 09:36:27,304] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/qualitycase HTTP/1.1" 200 0
+[2022-08-08 09:36:27,404] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-08 09:36:28,999] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 09:36:29,029] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 09:36:29,108] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 09:36:30,888] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 09:36:30,913] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 09:36:30,975] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 09:50:04,692] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 09:50:04,923] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 09:50:04,985] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 10:19:51,733] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:19:51,755] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:20:28,287] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3959
+[2022-08-08 10:20:32,161] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-08 10:20:49,535] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/qualitycase/1 HTTP/1.1" 200 0
+[2022-08-08 10:20:49,640] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /qc/qualitycase/1 HTTP/1.1" 200 714
+[2022-08-08 10:20:54,045] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /qc/qualitycase/1 HTTP/1.1" 200 714
+[2022-08-08 10:21:07,596] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:21:07,768] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-08 10:21:12,548] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:21:12,711] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-08 10:21:17,501] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3959
+[2022-08-08 10:31:58,063] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/permission/ HTTP/1.1" 200 0
+[2022-08-08 10:31:58,150] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/permission/ HTTP/1.1" 200 14063
+[2022-08-08 10:32:00,544] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:32:00,573] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:32:01,829] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-08 10:32:01,931] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:32:02,427] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:32:02,822] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:32:04,796] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 3959
+[2022-08-08 10:32:17,264] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 10:32:17,268] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:32:21,835] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 10:32:21,952] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5839
+[2022-08-08 10:32:28,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:32:28,477] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:32:32,133] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:32:33,905] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:32:50,748] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:32:50,977] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:32:51,041] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:24,632] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:26,548] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:27,035] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:28,011] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:28,395] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:29,730] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:31,295] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:33:37,801] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:33:37,804] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 10:33:39,420] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 10:33:39,447] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:33:39,528] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:34:08,141] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality/113/recheck HTTP/1.1" 200 0
+[2022-08-08 10:34:08,246] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/quality/113/recheck HTTP/1.1" 200 380
+[2022-08-08 10:34:08,347] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:34:11,330] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:34:11,536] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:34:11,653] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:34:33,832] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:34:48,981] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 10:34:49,088] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1159
+[2022-08-08 10:35:07,575] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:37:16,133] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:37:16,337] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:37:17,207] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:37:17,241] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:37:18,186] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:37:18,203] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:37:56,948] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:37:57,191] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:37:57,302] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:38:21,544] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:39:10,372] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:39:31,594] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:39:31,601] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:39:32,689] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:39:33,685] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:39:34,427] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:39:34,436] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:39:34,975] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1159
+[2022-08-08 10:39:35,566] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:40:16,874] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1159
+[2022-08-08 10:40:23,080] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:40:49,866] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:41:04,990] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:41:23,954] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:41:24,168] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:41:56,681] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 4309
+[2022-08-08 10:42:13,792] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:42:13,843] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:42:21,598] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality/119/recheck HTTP/1.1" 200 0
+[2022-08-08 10:42:21,705] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/quality/119/recheck HTTP/1.1" 200 380
+[2022-08-08 10:42:21,814] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:43:44,965] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:43:44,990] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:43:52,279] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:43:52,304] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:43:59,398] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality/115/recheck?reason=3333333333333 HTTP/1.1" 200 0
+[2022-08-08 10:43:59,501] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/quality/115/recheck?reason=3333333333333 HTTP/1.1" 200 398
+[2022-08-08 10:43:59,607] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:44:34,052] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualitycase HTTP/1.1" 200 1053
+[2022-08-08 10:44:34,845] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 5027
+[2022-08-08 10:46:59,547] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 5027
+[2022-08-08 10:47:12,882] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:47:12,900] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 10:47:13,644] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:47:13,658] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:47:14,726] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 10:47:15,921] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:47:15,941] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:47:16,426] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1159
+[2022-08-08 10:47:16,977] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:49:26,493] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:49:26,509] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:49:36,253] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 10:49:36,477] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 10:49:36,595] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5161
+[2022-08-08 10:51:16,104] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality/116 HTTP/1.1" 200 0
+[2022-08-08 10:51:16,202] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /qc/quality/116 HTTP/1.1" 200 388
+[2022-08-08 10:51:16,326] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5026
+[2022-08-08 10:51:22,551] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality/116/recheck HTTP/1.1" 200 0
+[2022-08-08 10:51:22,653] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/quality/116/recheck HTTP/1.1" 200 272
+[2022-08-08 10:51:22,774] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5026
+[2022-08-08 10:51:25,869] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck?page=1&pageSize=20 HTTP/1.1" 200 5269
+[2022-08-08 13:49:15,976] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-08 13:49:15,984] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-08 13:49:16,089] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 13:49:16,094] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 13:49:20,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-08 13:49:21,027] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 13:49:22,036] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-08 13:49:23,563] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 13:49:23,587] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 13:49:23,650] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 13:49:24,272] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 13:49:24,390] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5839
+[2022-08-08 13:50:51,154] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-08 13:50:51,297] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 13:50:51,486] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 13:50:51,523] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 13:50:52,419] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5839
+[2022-08-08 14:05:00,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-08 14:05:00,499] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-08 14:05:00,730] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-08 14:05:00,768] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-08 14:05:00,832] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 170
+[2022-08-08 14:05:00,856] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-08 15:57:28,220] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck/1/cancel HTTP/1.1" 200 9421
+[2022-08-08 15:57:28,245] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2022-08-08 15:57:28,245] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2022-08-08 15:57:28,246] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2022-08-08 15:57:28,247] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2022-08-08 15:57:28,247] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+[2022-08-08 15:57:28,247] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2022-08-08 15:57:28,252] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2022-08-08 15:57:28,253] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2022-08-08 15:57:28,253] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2022-08-08 15:57:28,253] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2022-08-08 15:57:28,258] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0

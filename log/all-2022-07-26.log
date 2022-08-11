@@ -1,0 +1,995 @@
+[2022-07-26 09:28:22,531] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 09:33:46,133] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket HTTP/1.1" 200 0
+[2022-07-26 09:33:46,263] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:33:47,106] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:34:35,540] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:34:37,827] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:36:08,371] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-07-26 09:36:08,471] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 09:36:08,718] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:36:35,231] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 09:36:35,560] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:36:37,966] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 09:36:38,264] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:37:28,578] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:38:08,239] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:39:55,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 09:39:55,684] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:40:51,409] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 09:40:51,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:40:53,407] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:41:36,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:41:37,404] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:41:37,853] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:41:38,295] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 2819
+[2022-07-26 09:43:12,267] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 09:43:13,397] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 09:43:33,339] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-26 09:43:34,417] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 09:43:45,646] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 22900
+[2022-07-26 09:43:45,677] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2022-07-26 09:43:45,679] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2022-07-26 09:43:45,681] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2022-07-26 09:43:45,682] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2022-07-26 09:43:45,684] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2022-07-26 09:43:45,684] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2022-07-26 09:43:45,686] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2022-07-26 09:43:45,688] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+[2022-07-26 09:43:45,690] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2022-07-26 09:43:45,691] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2022-07-26 09:43:45,711] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2022-07-26 09:43:45,711] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[2022-07-26 09:43:56,726] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-26 09:43:57,800] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 09:43:59,176] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-26 09:44:00,288] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 09:44:00,853] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 15235
+[2022-07-26 09:44:26,702] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 09:44:27,769] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 09:44:55,315] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 09:44:57,445] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 18301
+[2022-07-26 10:03:11,987] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 10:03:13,129] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:04:18,263] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 10:04:19,413] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:05:15,982] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 10:05:17,062] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:05:44,014] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:05:55,350] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 10:05:56,474] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:06:18,544] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 10:06:19,657] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:07:02,322] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 10:07:03,407] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:09:18,840] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 10:09:19,928] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:09:21,833] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 5386
+[2022-07-26 10:09:25,394] [log.py:230] [log:log_response] [WARNING]- Not Found: /qc/queryset
+[2022-07-26 10:09:25,394] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /qc/queryset HTTP/1.1" 404 5976
+[2022-07-26 10:09:33,129] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 24105
+[2022-07-26 10:09:40,714] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/Qualityinspection HTTP/1.1" 200 13038
+[2022-07-26 10:09:45,139] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket/qualityinspection HTTP/1.1" 200 10561
+[2022-07-26 10:09:49,281] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/qualityinspection HTTP/1.1" 200 10480
+[2022-07-26 10:10:48,480] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 10:10:48,735] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:11:12,818] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 10:11:13,183] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:11:18,356] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:11:18,475] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 10:11:19,613] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 10:11:20,049] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:11:41,392] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 10:11:41,657] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:12:00,588] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 10:12:00,894] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:12:26,952] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:12:27,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:13:03,565] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 24105
+[2022-07-26 10:14:16,434] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 10:14:16,761] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:14:19,884] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:14:38,837] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality HTTP/1.1" 200 0
+[2022-07-26 10:14:38,933] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 83
+[2022-07-26 10:14:43,515] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 10:14:44,192] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 83
+[2022-07-26 11:00:51,823] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 11:00:53,007] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:05:28,177] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 11:05:29,278] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:05:39,248] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 11:05:40,329] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:05:52,419] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 11:05:53,502] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:06:29,203] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-26 11:06:30,279] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:06:32,708] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-26 11:06:33,850] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:08:07,686] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 11:08:14,204] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:10:16,407] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 11:10:17,521] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:21:57,494] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-26 11:21:58,590] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:22:14,974] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\urls.py changed, reloading.
+[2022-07-26 11:22:16,075] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:23:12,667] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-26 11:23:13,776] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:27:48,067] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-26 11:27:49,166] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:28:22,008] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 11:28:23,110] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:29:31,500] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 11:29:32,680] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:29:44,519] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 11:29:45,607] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:29:56,903] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 11:29:58,015] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:30:06,081] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 11:30:07,184] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:30:47,567] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 11:30:48,670] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 11:31:16,114] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 11:31:17,211] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:26:21,295] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:26:22,468] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:26:52,214] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:26:53,311] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:37:24,954] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:37:26,088] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:37:39,542] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:37:40,637] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:37:57,299] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:37:58,416] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:38:18,324] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:38:19,457] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:38:26,433] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:38:27,498] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:38:53,936] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:38:55,058] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:39:08,487] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:39:09,624] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:39:20,939] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:39:22,102] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:40:04,294] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualityLoad HTTP/1.1" 200 21448
+[2022-07-26 13:40:07,883] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 109, in post
+    fobj = request.FILES["file"]
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'file'
+[2022-07-26 13:40:07,885] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 111356
+[2022-07-26 13:40:49,621] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 109, in post
+    fobj = request.FILES["file"]
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'file'
+[2022-07-26 13:40:49,622] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 111356
+[2022-07-26 13:45:08,659] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 91
+[2022-07-26 13:45:20,031] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 13:45:21,147] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:45:27,083] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 13:45:28,207] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:45:29,831] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 13:45:30,922] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:45:33,586] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 13:45:34,719] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:45:35,562] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 112, in post
+    sheet = fobj.get_sheet()
+  File "E:\QC\venv\lib\site-packages\pyexcel_webio\__init__.py", line 71, in get_sheet
+    return pe.get_sheet(**params)
+  File "E:\QC\venv\lib\site-packages\pyexcel\core.py", line 37, in get_sheet
+    named_content = sources.get_sheet_stream(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel\internal\core.py", line 21, in get_sheet_stream
+    sheets = a_source.get_data()
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\sources\memory_input.py", line 41, in get_data
+    self.__file_content, **self._keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 28, in parse_file_content
+    file_content, file_type=self._file_type, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 40, in _parse_any
+    sheets = get_data(anything, file_type=file_type, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 87, in get_data
+    afile, file_type=file_type, streaming=False, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 105, in _get_data
+    return load_data(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 193, in load_data
+    reader.open_content(file_content, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\reader.py", line 56, in open_content
+    self.file_type, location="content", library=self.library
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 185, in get_a_plugin
+    plugin = self.load_me_now(f"{location}-{__file_type}", library=library)
+  File "E:\QC\venv\lib\site-packages\lml\plugin.py", line 292, in load_me_now
+    self.raise_exception(key)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 201, in raise_exception
+    raise exceptions.SupportingPluginAvailableButNotInstalled(message)
+pyexcel_io.exceptions.SupportingPluginAvailableButNotInstalled: Please install one of these plugins for read data in 'xlsx': pyexcel-xls,pyexcel-xlsx
+[2022-07-26 13:45:35,566] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 212270
+[2022-07-26 13:46:03,677] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 111, in post
+    fobj = request.FILES["file"]
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'file'
+[2022-07-26 13:46:03,679] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 108084
+[2022-07-26 13:46:04,528] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 111, in post
+    fobj = request.FILES["file"]
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'file'
+[2022-07-26 13:46:04,529] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 108084
+[2022-07-26 13:46:18,575] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:46:20,783] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 112, in post
+    sheet = fobj.get_sheet()
+  File "E:\QC\venv\lib\site-packages\pyexcel_webio\__init__.py", line 71, in get_sheet
+    return pe.get_sheet(**params)
+  File "E:\QC\venv\lib\site-packages\pyexcel\core.py", line 37, in get_sheet
+    named_content = sources.get_sheet_stream(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel\internal\core.py", line 21, in get_sheet_stream
+    sheets = a_source.get_data()
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\sources\memory_input.py", line 41, in get_data
+    self.__file_content, **self._keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 28, in parse_file_content
+    file_content, file_type=self._file_type, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 40, in _parse_any
+    sheets = get_data(anything, file_type=file_type, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 87, in get_data
+    afile, file_type=file_type, streaming=False, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 105, in _get_data
+    return load_data(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 193, in load_data
+    reader.open_content(file_content, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\reader.py", line 56, in open_content
+    self.file_type, location="content", library=self.library
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 185, in get_a_plugin
+    plugin = self.load_me_now(f"{location}-{__file_type}", library=library)
+  File "E:\QC\venv\lib\site-packages\lml\plugin.py", line 292, in load_me_now
+    self.raise_exception(key)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 201, in raise_exception
+    raise exceptions.SupportingPluginAvailableButNotInstalled(message)
+pyexcel_io.exceptions.SupportingPluginAvailableButNotInstalled: Please install one of these plugins for read data in 'xlsx': pyexcel-xls,pyexcel-xlsx
+[2022-07-26 13:46:20,786] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 212270
+[2022-07-26 13:47:31,572] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 112, in post
+    sheet = fobj.get_sheet()
+  File "E:\QC\venv\lib\site-packages\pyexcel_webio\__init__.py", line 71, in get_sheet
+    return pe.get_sheet(**params)
+  File "E:\QC\venv\lib\site-packages\pyexcel\core.py", line 37, in get_sheet
+    named_content = sources.get_sheet_stream(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel\internal\core.py", line 21, in get_sheet_stream
+    sheets = a_source.get_data()
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\sources\memory_input.py", line 41, in get_data
+    self.__file_content, **self._keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 28, in parse_file_content
+    file_content, file_type=self._file_type, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 40, in _parse_any
+    sheets = get_data(anything, file_type=file_type, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 87, in get_data
+    afile, file_type=file_type, streaming=False, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 105, in _get_data
+    return load_data(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 193, in load_data
+    reader.open_content(file_content, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\reader.py", line 56, in open_content
+    self.file_type, location="content", library=self.library
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 185, in get_a_plugin
+    plugin = self.load_me_now(f"{location}-{__file_type}", library=library)
+  File "E:\QC\venv\lib\site-packages\lml\plugin.py", line 292, in load_me_now
+    self.raise_exception(key)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 201, in raise_exception
+    raise exceptions.SupportingPluginAvailableButNotInstalled(message)
+pyexcel_io.exceptions.SupportingPluginAvailableButNotInstalled: Please install one of these plugins for read data in 'xlsx': pyexcel-xls,pyexcel-xlsx
+[2022-07-26 13:47:31,576] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 212270
+[2022-07-26 13:47:48,274] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 112, in post
+    sheet = fobj.get_sheet()
+  File "E:\QC\venv\lib\site-packages\pyexcel_webio\__init__.py", line 71, in get_sheet
+    return pe.get_sheet(**params)
+  File "E:\QC\venv\lib\site-packages\pyexcel\core.py", line 37, in get_sheet
+    named_content = sources.get_sheet_stream(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel\internal\core.py", line 21, in get_sheet_stream
+    sheets = a_source.get_data()
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\sources\memory_input.py", line 41, in get_data
+    self.__file_content, **self._keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 28, in parse_file_content
+    file_content, file_type=self._file_type, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel\plugins\parsers\excel.py", line 40, in _parse_any
+    sheets = get_data(anything, file_type=file_type, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 87, in get_data
+    afile, file_type=file_type, streaming=False, **keywords
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 105, in _get_data
+    return load_data(**keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\io.py", line 193, in load_data
+    reader.open_content(file_content, **keywords)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\reader.py", line 56, in open_content
+    self.file_type, location="content", library=self.library
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 185, in get_a_plugin
+    plugin = self.load_me_now(f"{location}-{__file_type}", library=library)
+  File "E:\QC\venv\lib\site-packages\lml\plugin.py", line 292, in load_me_now
+    self.raise_exception(key)
+  File "E:\QC\venv\lib\site-packages\pyexcel_io\plugins.py", line 201, in raise_exception
+    raise exceptions.SupportingPluginAvailableButNotInstalled(message)
+pyexcel_io.exceptions.SupportingPluginAvailableButNotInstalled: Please install one of these plugins for read data in 'xlsx': pyexcel-xls,pyexcel-xlsx
+[2022-07-26 13:47:48,292] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 212270
+[2022-07-26 13:47:54,304] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:47:56,882] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 34, in save_excel_to_db
+    self.deal_excel()
+  File "E:\QC\apps\qc\asset_load.py", line 42, in deal_excel
+    self.data_list = self.deal_row_data()
+  File "E:\QC\apps\qc\asset_load.py", line 94, in deal_row_data
+    attr_list = self.get_attr_map(header)
+  File "E:\QC\apps\qc\asset_load.py", line 112, in get_attr_map
+    attr_list.append(field_dict[head])
+KeyError: '评语'
+[2022-07-26 13:47:56,884] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 128439
+[2022-07-26 13:48:32,179] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:48:33,302] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:48:36,180] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 34, in save_excel_to_db
+    self.deal_excel()
+  File "E:\QC\apps\qc\asset_load.py", line 42, in deal_excel
+    self.data_list = self.deal_row_data()
+  File "E:\QC\apps\qc\asset_load.py", line 94, in deal_row_data
+    attr_list = self.get_attr_map(header)
+  File "E:\QC\apps\qc\asset_load.py", line 113, in get_attr_map
+    attr_list.append(field_dict[head])
+KeyError: '评语'
+[2022-07-26 13:48:36,182] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 128418
+[2022-07-26 13:49:29,168] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:49:30,375] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:49:31,165] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 35, in save_excel_to_db
+    self.save_data()
+  File "E:\QC\apps\qc\asset_load.py", line 49, in save_data
+    self.deal_special_field()
+  File "E:\QC\apps\qc\asset_load.py", line 72, in deal_special_field
+    del self.in_obj_data[master_key]
+KeyError: 'id'
+[2022-07-26 13:49:31,167] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 117081
+[2022-07-26 13:49:53,868] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:49:55,028] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:49:56,067] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'session': [ErrorDetail(string='请确保该值小于或者等于 2147483647。', code='max_value')]}
+[2022-07-26 13:49:56,186] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 35, in save_excel_to_db
+    self.save_data()
+  File "E:\QC\apps\qc\asset_load.py", line 63, in save_data
+    raise
+RuntimeError: No active exception to reraise
+[2022-07-26 13:49:56,188] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 116429
+[2022-07-26 13:50:48,061] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:50:49,184] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:51:00,581] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:51:00,697] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 35, in save_excel_to_db
+    self.save_data()
+  File "E:\QC\apps\qc\asset_load.py", line 63, in save_data
+    raise
+RuntimeError: No active exception to reraise
+[2022-07-26 13:51:00,699] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 116282
+[2022-07-26 13:52:08,785] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:52:09,971] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:52:11,593] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,595] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,596] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,597] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,598] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,599] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,600] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,602] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,603] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,604] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,605] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,607] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,608] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,609] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,610] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,611] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,612] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 13:52:43,634] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-26 13:52:44,749] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:52:49,559] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-26 13:52:50,649] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:52:52,270] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,272] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,273] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,274] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,275] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,276] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,277] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,278] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,279] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,280] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,281] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,282] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,283] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,284] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,285] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,286] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,288] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 13:53:03,511] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
+[2022-07-26 13:53:04,614] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:53:06,466] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 13:53:38,256] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:53:39,405] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:54:14,285] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,288] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,288] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,289] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,290] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,291] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,292] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,293] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,294] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,295] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,296] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,297] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,299] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,299] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,301] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,301] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,302] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 13:54:19,381] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,382] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,383] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,384] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,385] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,386] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,387] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,388] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,390] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,391] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,392] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,423] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,424] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,425] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,426] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,427] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,428] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 13:54:53,096] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:54:54,194] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:55:09,757] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:55:10,850] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:55:13,631] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:55:13,752] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 35, in save_excel_to_db
+    self.save_data()
+  File "E:\QC\apps\qc\asset_load.py", line 63, in save_data
+    raise
+RuntimeError: No active exception to reraise
+[2022-07-26 13:55:13,755] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 116409
+[2022-07-26 13:55:14,069] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:55:14,174] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 35, in save_excel_to_db
+    self.save_data()
+  File "E:\QC\apps\qc\asset_load.py", line 63, in save_data
+    raise
+RuntimeError: No active exception to reraise
+[2022-07-26 13:55:14,176] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 116409
+[2022-07-26 13:56:29,596] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:56:30,748] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:56:31,375] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:56:31,495] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 35, in save_excel_to_db
+    self.save_data()
+  File "E:\QC\apps\qc\asset_load.py", line 63, in save_data
+    raise
+RuntimeError: No active exception to reraise
+[2022-07-26 13:56:31,497] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 116409
+[2022-07-26 13:56:50,998] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:56:52,121] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:58:14,489] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 13:58:15,572] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:58:20,171] [asset_load.py:61] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:58:20,288] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/qualityLoad
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 116, in post
+    instance.save_excel_to_db()
+  File "E:\QC\apps\qc\asset_load.py", line 35, in save_excel_to_db
+    self.save_data()
+  File "E:\QC\apps\qc\asset_load.py", line 62, in save_data
+    raise
+RuntimeError: No active exception to reraise
+[2022-07-26 13:58:20,290] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/qualityLoad HTTP/1.1" 500 116409
+[2022-07-26 13:59:26,212] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 13:59:27,374] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 13:59:29,575] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:01:00,978] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\asset_load.py changed, reloading.
+[2022-07-26 14:01:02,093] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 14:02:00,536] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:04:21,613] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/qualityLoad HTTP/1.1" 200 19804
+[2022-07-26 14:04:21,645] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[2022-07-26 14:04:21,647] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2022-07-26 14:04:21,647] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[2022-07-26 14:04:21,654] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[2022-07-26 14:04:21,657] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2022-07-26 14:04:21,657] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[2022-07-26 14:04:21,657] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2022-07-26 14:04:21,669] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2022-07-26 14:04:21,671] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2022-07-26 14:04:21,676] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2022-07-26 14:04:21,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2022-07-26 14:04:21,930] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-07-26 14:04:21,931] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 4608
+[2022-07-26 14:04:36,306] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:04:46,241] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:04:58,758] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:07:31,137] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 14:07:32,289] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 14:34:35,209] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:35:19,566] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 14:35:20,730] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 14:35:23,711] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:35:28,713] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 14:35:59,111] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 5060
+[2022-07-26 14:36:06,994] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 5188
+[2022-07-26 14:36:13,076] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2022-07-26 14:36:13,113] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2216
+[2022-07-26 14:36:13,129] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2022-07-26 14:36:13,130] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[2022-07-26 14:36:13,130] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[2022-07-26 14:36:13,131] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[2022-07-26 14:36:13,132] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[2022-07-26 14:36:13,759] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+[2022-07-26 14:36:13,773] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2216
+[2022-07-26 14:36:13,790] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[2022-07-26 14:36:13,815] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[2022-07-26 14:36:13,818] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[2022-07-26 14:36:19,695] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2022-07-26 14:36:19,914] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 13721
+[2022-07-26 14:36:19,930] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2022-07-26 14:36:19,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2022-07-26 14:36:19,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2022-07-26 14:36:19,973] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[2022-07-26 14:36:22,785] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 27948
+[2022-07-26 14:38:05,310] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /token/ HTTP/1.1" 200 0
+[2022-07-26 14:38:05,541] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /token/ HTTP/1.1" 200 517
+[2022-07-26 14:38:05,603] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-07-26 14:38:05,819] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 14:38:50,711] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /token/ HTTP/1.1" 200 517
+[2022-07-26 14:38:50,824] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 14:38:55,454] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality HTTP/1.1" 200 0
+[2022-07-26 14:38:55,587] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:38:57,825] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:39:08,337] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 14:39:08,626] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:39:32,998] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket HTTP/1.1" 200 0
+[2022-07-26 14:39:33,109] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 14:40:13,329] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:40:46,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:40:51,997] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:41:26,454] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger HTTP/1.1" 301 0
+[2022-07-26 14:41:26,537] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/ HTTP/1.1" 200 2167
+[2022-07-26 14:41:26,602] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2022-07-26 14:41:26,602] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2022-07-26 14:41:26,603] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+[2022-07-26 14:41:26,613] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+[2022-07-26 14:41:26,652] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143858
+[2022-07-26 14:41:26,655] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+[2022-07-26 14:41:26,658] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+[2022-07-26 14:41:26,832] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[2022-07-26 14:41:26,833] [basehttp.py:161] [basehttp:log_message] [INFO]- "HEAD /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[2022-07-26 14:41:26,882] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('192.168.118.18', 63950)
+
+[2022-07-26 14:41:27,003] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/?format=openapi HTTP/1.1" 200 52326
+[2022-07-26 14:44:13,601] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:58:43,450] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 14:58:58,733] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:01:33,774] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:02:06,126] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:02:23,639] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:02:32,886] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:02:43,973] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:05:19,594] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:05:37,368] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:06:08,756] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:10:23,903] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:10:51,191] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:11:00,553] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:11:09,441] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:11:17,808] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:13:21,141] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:13:23,965] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:13:24,219] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:13:27,543] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:13:27,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:13:45,554] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:13:45,767] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:13:59,488] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:13:59,728] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:14:43,672] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:23:15,333] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:27:34,806] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:27:35,171] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:32:25,033] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:32:25,303] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:40:46,500] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:40:46,818] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:41:12,691] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:41:12,962] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:41:23,066] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:41:23,327] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:42:05,016] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:42:05,270] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:42:16,093] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:42:16,360] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:43:16,806] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:43:17,044] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:44:14,524] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:44:14,758] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:44:51,277] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:44:51,543] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:45:01,409] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:45:01,605] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:45:04,076] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:45:04,374] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:50:05,217] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:50:05,393] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:51:18,060] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 15:51:18,251] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 15:54:29,176] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/qualityLoad HTTP/1.1" 200 0
+[2022-07-26 15:54:29,377] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 15:55:20,895] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 15:56:42,365] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 15:56:43,537] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 15:56:51,591] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-07-26 15:56:52,712] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 16:55:49,423] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality HTTP/1.1" 200 0
+[2022-07-26 16:55:49,542] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 2954
+[2022-07-26 17:03:13,203] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket HTTP/1.1" 200 0
+[2022-07-26 17:03:13,305] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-26 17:11:40,020] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 17:11:41,234] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 17:13:30,588] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-07-26 17:13:31,709] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-07-26 17:13:43,110] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/qualityLoad HTTP/1.1" 200 33
+[2022-07-26 17:13:59,675] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 30406
+[2022-07-26 17:43:14,695] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-07-26 17:43:14,809] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-07-26 17:43:15,007] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality HTTP/1.1" 200 4517
+[2022-07-26 17:43:16,842] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket HTTP/1.1" 200 3109
+[2022-07-27 08:56:22,385] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/ HTTP/1.1" 200 2167
+[2022-07-27 08:56:22,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2022-07-27 08:56:22,499] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143858
+[2022-07-27 08:56:22,515] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+[2022-07-27 08:56:22,524] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2022-07-27 08:56:22,525] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+[2022-07-27 08:56:22,526] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+[2022-07-27 08:56:22,526] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+[2022-07-27 08:56:22,789] [basehttp.py:161] [basehttp:log_message] [INFO]- "HEAD /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[2022-07-27 08:56:22,969] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/?format=openapi HTTP/1.1" 200 52412
+[2022-07-27 08:57:58,156] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.

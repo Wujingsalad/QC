@@ -1,0 +1,70 @@
+[2022-07-26 13:49:56,067] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'session': [ErrorDetail(string='请确保该值小于或者等于 2147483647。', code='max_value')]}
+[2022-07-26 13:51:00,581] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,593] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,595] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,596] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,597] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,598] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,599] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,600] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,602] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,603] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,604] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,605] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,607] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,608] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,609] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,610] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:11,611] [asset_load.py:62] [asset_load:save_data] [INFO]- {'update_time': [ErrorDetail(string='该字段是必填项。', code='required')], 'create_time': [ErrorDetail(string='该字段是必填项。', code='required')]}
+[2022-07-26 13:52:52,270] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,272] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,273] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,274] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,275] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,276] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,277] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,278] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,279] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,280] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,281] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,282] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,283] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,284] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,285] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:52:52,286] [asset_load.py:62] [asset_load:save_data] [INFO]- {'inspect_time': [ErrorDetail(string='日期格式错误。请从这些格式中选择：DD/MM/YY, YYYY-MM-DD。', code='invalid')]}
+[2022-07-26 13:54:14,285] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,288] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,288] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,289] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,290] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,291] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,292] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,293] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,294] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,295] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,296] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,297] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,299] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,299] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,301] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:14,301] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,381] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,382] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,383] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,384] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,385] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,386] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,387] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,388] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,390] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,391] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,392] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,423] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,424] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,425] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,426] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:54:19,427] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:55:13,631] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:55:14,069] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:56:31,375] [asset_load.py:62] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}
+[2022-07-26 13:58:20,171] [asset_load.py:61] [asset_load:save_data] [INFO]- {'kefu': [ErrorDetail(string='请确保这个字段不能超过 36 个字符。', code='max_length')]}

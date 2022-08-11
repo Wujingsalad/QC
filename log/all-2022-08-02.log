@@ -1,0 +1,483 @@
+[2022-08-02 10:15:05,035] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:17:49,478] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:19:03,417] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-08-02 10:19:04,558] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:20:06,776] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:20:07,942] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:22:40,560] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:22:41,711] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:23:25,487] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\models.py changed, reloading.
+[2022-08-02 10:23:26,656] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:24:12,626] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:24:13,801] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:45:08,077] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 12233
+[2022-08-02 10:48:48,999] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:48:50,131] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:49:02,426] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:49:03,633] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:49:31,732] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:49:49,288] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:49:50,406] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:49:50,850] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 219, in get
+    return Response(Announcement.objects.filter().first().data)
+AttributeError: 'NoneType' object has no attribute 'data'
+[2022-08-02 10:49:50,852] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/announcement HTTP/1.1" 500 100687
+[2022-08-02 10:50:03,964] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:50:05,059] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:50:13,188] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:50:14,307] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:50:15,536] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 221, in get
+    return Response(Announcement.objects.filter().first().data)
+AttributeError: 'Announcement' object has no attribute 'data'
+[2022-08-02 10:50:15,538] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/announcement HTTP/1.1" 500 100747
+[2022-08-02 10:50:38,631] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:50:39,743] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:50:40,779] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "E:\QC\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "E:\QC\venv\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 680, in get_context
+    'content': self.get_content(renderer, data, accepted_media_type, renderer_context),
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 413, in get_content
+    content = renderer.render(data, accepted_media_type, renderer_context)
+  File "E:\QC\utils\response.py", line 67, in render
+    return super(FitJSONRenderer, self).render(response_body.dict, accepted_media_type, renderer_context)
+  File "E:\QC\venv\lib\site-packages\rest_framework\renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\QC\venv\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 201, in encode
+    chunks = list(chunks)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 431, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 438, in _iterencode
+    o = _default(o)
+  File "E:\QC\venv\lib\site-packages\rest_framework\utils\encoders.py", line 67, in default
+    return super().default(obj)
+  File "C:\Users\h19716\AppData\Local\Programs\Python\Python37\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Announcement is not JSON serializable
+[2022-08-02 10:50:40,782] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/announcement HTTP/1.1" 500 151972
+[2022-08-02 10:50:46,747] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:50:47,896] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:50:48,363] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 221, in get
+    return Response(Announcement.objects.filter().first().json)
+AttributeError: 'Announcement' object has no attribute 'json'
+[2022-08-02 10:50:48,364] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/announcement HTTP/1.1" 500 100747
+[2022-08-02 10:50:50,603] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:50:51,743] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:50:53,065] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 221, in get
+    return Response(Announcement.objects.filter().first().json())
+AttributeError: 'Announcement' object has no attribute 'json'
+[2022-08-02 10:50:53,066] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/announcement HTTP/1.1" 500 100751
+[2022-08-02 10:51:00,934] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:51:02,031] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:51:06,005] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 221, in get
+    return Response(Announcement.objects.filter().data())
+AttributeError: 'QuerySet' object has no attribute 'data'
+[2022-08-02 10:51:06,008] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /qc/announcement HTTP/1.1" 500 100711
+[2022-08-02 10:52:16,539] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 10:52:17,687] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 10:52:19,071] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 7345
+[2022-08-02 13:42:52,278] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-02 13:42:52,442] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:43:17,198] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-02 13:43:17,275] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-02 13:43:17,526] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:43:26,194] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:44:51,538] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:46:15,268] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:50:13,816] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-02 13:50:13,867] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 111
+[2022-08-02 13:50:19,142] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-02 13:50:19,348] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:53:04,266] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-02 13:53:04,609] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:53:52,526] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:53:52,730] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:54:17,297] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-02 13:54:17,410] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'comment'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 226, in post
+    comment = request.data['comment']
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'comment'
+[2022-08-02 13:54:17,411] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/announcement HTTP/1.1" 500 108421
+[2022-08-02 13:54:21,321] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'comment'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 226, in post
+    comment = request.data['comment']
+  File "E:\QC\venv\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'comment'
+[2022-08-02 13:54:21,322] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/announcement HTTP/1.1" 500 108421
+[2022-08-02 13:54:41,471] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:54:45,631] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 227, in post
+    is_active = request.data['is_active']
+KeyError: 'is_active'
+[2022-08-02 13:54:45,632] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/announcement HTTP/1.1" 500 99912
+[2022-08-02 13:54:57,851] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:55:02,465] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /qc/announcement
+Traceback (most recent call last):
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\QC\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\QC\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\QC\apps\qc\views.py", line 231, in post
+    obj = Announcement.objects.filter().first().update(comment=comment, is_active=is_active)
+AttributeError: 'Announcement' object has no attribute 'update'
+[2022-08-02 13:55:02,467] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /qc/announcement HTTP/1.1" 500 100380
+[2022-08-02 13:57:18,617] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\views.py changed, reloading.
+[2022-08-02 13:57:19,761] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-08-02 13:57:44,751] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/announcement HTTP/1.1" 200 47
+[2022-08-02 13:57:59,557] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-02 13:57:59,943] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:58:34,822] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 13:58:35,924] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/announcement HTTP/1.1" 200 47
+[2022-08-02 13:58:38,593] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/announcement HTTP/1.1" 200 47
+[2022-08-02 14:00:04,539] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/announcement HTTP/1.1" 200 47
+[2022-08-02 14:21:33,186] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-02 14:21:33,275] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-02 14:21:35,641] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 14:21:45,581] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-02 14:21:45,610] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 14:21:47,001] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-02 14:21:47,018] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-02 14:21:47,094] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 14:21:47,891] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-02 14:21:55,940] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-02 14:21:55,948] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 14:22:09,483] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-02 14:22:09,496] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-02 14:22:11,528] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-02 14:22:11,550] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-02 14:22:11,631] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-02 16:03:42,745] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 111
+[2022-08-02 16:03:46,857] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /token/ HTTP/1.1" 200 0
+[2022-08-02 16:03:47,086] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /token/ HTTP/1.1" 200 517
+[2022-08-02 16:03:47,144] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-02 16:03:47,537] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-02 16:03:47,714] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-02 16:03:47,802] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-02 16:03:47,805] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-02 16:03:50,430] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-02 16:03:50,520] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-02 17:38:29,910] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-02 17:38:30,051] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-02 17:38:30,358] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-02 17:38:30,730] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:10:30,309] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 09:10:30,364] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 111
+[2022-08-04 09:10:33,250] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /token/ HTTP/1.1" 200 0
+[2022-08-04 09:10:33,696] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /token/ HTTP/1.1" 200 517
+[2022-08-04 09:10:33,761] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-04 09:10:33,834] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-04 09:10:34,014] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-04 09:10:34,057] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 09:10:34,118] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:10:34,153] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:10:45,990] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-04 09:10:46,019] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:10:46,089] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-04 09:10:56,602] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:10:56,622] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-04 09:14:08,685] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck HTTP/1.1" 200 0
+[2022-08-04 09:14:08,789] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3474
+[2022-08-04 09:15:23,182] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3474
+[2022-08-04 09:17:50,918] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 09:17:50,941] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:17:51,008] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:17:52,627] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 09:17:52,646] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:17:52,725] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:17:54,079] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:17:54,089] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:21:10,460] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:21:10,517] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:21:12,923] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-04 09:22:16,617] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:22:16,649] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:22:35,092] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-04 09:22:35,332] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:22:35,467] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:24:20,295] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:24:20,320] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:34:11,716] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:34:11,737] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:34:24,169] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:34:24,208] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:35:44,094] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:35:44,126] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:36:00,694] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-04 09:36:00,940] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:36:01,178] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:36:28,142] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:36:28,177] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:37:23,470] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-04 09:37:23,720] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:37:23,938] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:38:09,655] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3474
+[2022-08-04 09:38:43,137] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3474
+[2022-08-04 09:44:07,156] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:44:07,193] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-04 09:44:08,456] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-04 09:44:08,547] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-04 09:44:09,875] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:44:09,895] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:44:10,636] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 09:44:10,727] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5622
+[2022-08-04 09:44:13,170] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:44:13,192] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:45:22,608] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:45:22,640] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:45:39,418] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-04 09:45:41,750] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:45:43,462] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-04 09:50:19,632] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:50:19,648] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:50:21,456] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:50:21,472] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:50:30,996] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:50:31,025] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 09:50:34,196] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:50:34,199] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:50:35,155] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 09:50:35,312] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:50:36,332] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 09:50:36,393] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 09:50:37,038] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5622
+[2022-08-04 14:34:02,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/announcement HTTP/1.1" 200 0
+[2022-08-04 14:34:02,833] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-04 14:34:02,963] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:34:03,014] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-04 14:34:08,055] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/recheck HTTP/1.1" 200 0
+[2022-08-04 14:34:08,210] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3474
+[2022-08-04 14:34:12,238] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-04 14:34:12,241] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:34:25,296] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 0
+[2022-08-04 14:34:25,385] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80&kefu=admin&holder=admin HTTP/1.1" 200 83
+[2022-08-04 14:34:27,197] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 14:34:27,251] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:34:27,312] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 14:34:27,980] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 14:34:28,021] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:34:28,102] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 14:34:29,141] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 14:34:29,246] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-04 14:35:17,436] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3474
+[2022-08-04 14:40:53,830] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /system/user/info/ HTTP/1.1" 200 0
+[2022-08-04 14:40:54,101] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /system/user/info/ HTTP/1.1" 200 194
+[2022-08-04 14:40:54,970] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3474
+[2022-08-04 14:45:23,201] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:45:23,234] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 14:45:23,759] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 14:45:23,767] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:45:23,897] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 14:45:24,360] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:45:24,389] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 14:45:25,445] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-04 14:45:40,174] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 14:45:40,709] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 600
+[2022-08-04 14:45:42,132] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:45:42,168] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 14:45:43,417] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 0
+[2022-08-04 14:45:43,506] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5622
+[2022-08-04 14:45:51,761] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket/15 HTTP/1.1" 200 0
+[2022-08-04 14:45:51,911] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /qc/ticket/15 HTTP/1.1" 200 507
+[2022-08-04 14:45:52,010] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%BE%85%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 5549
+[2022-08-04 14:46:01,831] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 14:46:01,833] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:46:02,546] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1097
+[2022-08-04 14:47:07,619] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:47:07,649] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 14:47:09,076] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1097
+[2022-08-04 14:47:14,670] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket/14/recheck HTTP/1.1" 200 0
+[2022-08-04 14:47:14,763] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/14/recheck HTTP/1.1" 200 67
+[2022-08-04 14:47:19,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /qc/ticket/15/recheck HTTP/1.1" 200 0
+[2022-08-04 14:47:19,493] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /qc/ticket/15/recheck HTTP/1.1" 200 67
+[2022-08-04 14:47:30,540] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/recheck HTTP/1.1" 200 3453
+[2022-08-04 14:47:34,401] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:47:34,420] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E6%9C%AA%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 83
+[2022-08-04 14:47:36,015] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/announcement HTTP/1.1" 200 438
+[2022-08-04 14:47:36,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/quality?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1853
+[2022-08-04 14:47:36,890] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /qc/ticket?page=1&page_size=10&quality_status=%E5%B7%B2%E8%B4%A8%E6%A3%80 HTTP/1.1" 200 1097
+[2022-08-04 14:50:51,728] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\QC\apps\qc\serializer.py changed, reloading.
